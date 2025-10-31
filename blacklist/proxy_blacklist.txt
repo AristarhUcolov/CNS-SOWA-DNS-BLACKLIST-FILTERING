@@ -11,3 +11,10 @@
 ! S.O.W.A Security Software: https://github.com/AristarhUcolov/CNS-SOWA-SECURITY
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
+
+||gologin.com^
+||multilogin.com^
+||911proxy^
+||proxy4free^
+||proxys.io^
+||omegaproxy.com^
