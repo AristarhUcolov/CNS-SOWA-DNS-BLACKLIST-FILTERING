@@ -12,3 +12,10 @@
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
 
+
+! =============================================================================================================================
+! FORMER Safe-World-DNS-BlockList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky
+! Page: https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky
+! Description: It's one file with All-BlackList-WebSites, it will be supported in future format for people who want all in one.
+! =============================================================================================================================
+
