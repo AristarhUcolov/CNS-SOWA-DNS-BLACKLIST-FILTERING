@@ -11,3 +11,22 @@
 ! S.O.W.A Security Software: https://github.com/AristarhUcolov/CNS-SOWA-SECURITY
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
+
+||sfilm.hu^
+||fishki.net^
+||themoviedb.org^
+||bestthots.com^
+||fansfan.com^
+||themaryburke.com^
+||bunkr.si^
+||seekfans.com^
+||sliv-onlyfans.ru^
+||4leaked.com^
+||imginn.com^
+||urlebird.com^
+||xxk.mobi^
+||thotporn.tv^
+||4k-video.ru^
+||leaks.photos^
+||phpremium.com^
+||smotryashka.ru^
