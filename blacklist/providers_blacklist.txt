@@ -11,3 +11,10 @@
 ! S.O.W.A Security Software: https://github.com/AristarhUcolov/CNS-SOWA-SECURITY
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
+
+||_sips._tcp.md-orange.rcs.telephony.goog^
+||md-orange.rcs.telephony.goog^
+||*.md-orange.rcs.telephony.goog^
+||*.rcs.telephony.goog^
+||*.telephony.goog^
+||hellofuture.orange.com^
