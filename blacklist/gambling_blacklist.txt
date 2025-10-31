@@ -11,3 +11,15 @@
 ! S.O.W.A Security Software: https://github.com/AristarhUcolov/CNS-SOWA-SECURITY
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
+
+||ktx256.cc^
+||6525748.cc:8443^
+||3654598.cc:8443^
+||3836479.cc:8443^
+||6525748.cc^
+||3654598.cc^
+||3836479.cc^
+||hg28271.com^
+||495a95.com^
+||biying865465.com^
+||biying865465.com:30120^
