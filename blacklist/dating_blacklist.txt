@@ -11,3 +11,13 @@
 ! S.O.W.A Security Software: https://github.com/AristarhUcolov/CNS-SOWA-SECURITY
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
+
+||fapodrop.com^
+||fansly.com^
+||kharkov.ukrgo.com^
+||fapomania.com^
+||colorfans.com^
+||colorfans.com.ar^
+||colorfans.com.*^
+||colormusic.cl^
+||smotri.com^
