@@ -12,4 +12,5 @@
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
 
-||ht​tps://www.​henrypp.​org^
+||henrypp.​org^
+
