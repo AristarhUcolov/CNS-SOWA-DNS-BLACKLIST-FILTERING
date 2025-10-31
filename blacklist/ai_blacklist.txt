@@ -27,3 +27,4 @@
 ||krush.chat^
 ||xjoy.ai^
 ||outfitswap.ai^
+||iask.ai^
