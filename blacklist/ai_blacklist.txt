@@ -11,3 +11,19 @@
 ! S.O.W.A Security Software: https://github.com/AristarhUcolov/CNS-SOWA-SECURITY
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
+
+||undressly.com^
+||app.undressly.ai^
+||hotgens.com^
+||nsfwbots.com^
+||nsfwcharacter.ai^
+||elyza.app^
+||myanima.ai^
+||nastia.ai^
+||secretdesires.ai^
+||texthub.me^
+||woowell.ai^
+||aigirlfriend.tw^
+||krush.chat^
+||xjoy.ai^
+||outfitswap.ai^
