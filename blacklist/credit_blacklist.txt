@@ -11,3 +11,34 @@
 ! S.O.W.A Security Software: https://github.com/AristarhUcolov/CNS-SOWA-SECURITY
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
+
+||linkbank.com^
+||centrofinans.ru^
+||banki.ru^
+||kmf.kz^
+||ecb.eu^ropa.eu^
+||solva.kz^
+||sravni.go2cloud.org^
+||joy.money
+||sravni.ru^
+||credistory.ru^
+||creditprime.md^
+||zaymigo.ru^
+||vsezaimyonline.ru^
+||partner.creditprime.md^
+||займы.рф^
+||creditulka.com^
+||kviku.ru^
+||flexcredit.md^
+||dacredit.md^
+||credit365.md^
+||imprumut.md^
+||vyruchaidengi.ru^
+||korona.ru^
+||microinvest.md^
+||procreditbank.md^
+||banklab.ru^
+||credit7.md^
+||rapidfinance.md^
+||sebo.md^
+||ecredit.md^
