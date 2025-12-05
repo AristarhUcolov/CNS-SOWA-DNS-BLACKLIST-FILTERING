@@ -53,7 +53,7 @@
 ## Description 📋
 Blacklist of sites covering all types of content, serving as the main blacklist for S.O.W.A Security Software.
 
-**Goal:** Protect all people of the world to be safe in the digital space.
+**Goal:** Ensure digital safety for people worldwide.
 
 This project is developed by **C.N.S (Clear-Net-Sky)** organization in collaboration with **S.A** and **OpcoderZ-Security**.
 
