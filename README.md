@@ -41,34 +41,34 @@
 ## Категории черных списков 📂
 | Категория | Описание | Raw-ссылка |
 |-----------|----------|------------|
-| `adobe_blacklist.txt` | Поддельные сайты Adobe | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/adobe_blacklist.txt) |
+| `adobe_blacklist.txt` | Шпионские ссылки Adobe | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/adobe_blacklist.txt) |
 | `ads_blacklist.txt` | Рекламные сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/ads_blacklist.txt) |
-| `ai_blacklist.txt` | AI-сервисы | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/ai_blacklist.txt) |
+| `ai_blacklist.txt` | NSFW AI-сервисы | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/ai_blacklist.txt) |
 | `alcohol_blacklist.txt` | Алкогольный контент | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/alcohol%20_blacklist.txt) |
-| `credit_blacklist.txt` | Мошеннические кредитные сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/credit_blacklist.txt) |
-| `crypto_blacklist.txt` | Криптовалютные сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/crypto_blacklist.txt) |
+| `credit_blacklist.txt` | Кредитные сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/credit_blacklist.txt) |
+| `crypto_blacklist.txt` | Мошеннические Криптовалютные сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/crypto_blacklist.txt) |
 | `dating_blacklist.txt` | Сайты знакомств | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/dating_blacklist.txt) |
 | `extremism_blacklist.txt` | Экстремистский контент | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/extremism_blacklist.txt) |
 | `gambling_blacklist.txt` | Азартные игры | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/gambling_blacklist.txt) |
 | `gore_blacklist.txt` | Шокирующий контент | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/gore_blacklist.txt) |
-| `human_blacklist.txt` | Торговля людьми | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/human_blacklist.txt) |
+| `human_blacklist.txt` | Античеловеческий контент | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/human_blacklist.txt) |
 | `illegal_content_blacklist.txt` | Нелегальный контент | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/illegal_content_blacklist.txt) |
 | `maniac_blacklist.txt` | Опасный контент | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/maniac_blacklist.txt) |
 | `nsfw_blacklist.txt` | Контент для взрослых | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/nsfw_blacklist.txt) |
 | `pornographical_blacklist.txt` | Порнографический контент | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/pornographical_blacklist.txt) |
-| `providers_blacklist.txt` | Опасные провайдеры | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/providers_blacklist.txt) |
-| `proxy_blacklist.txt` | Прокси-сервисы | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/proxy_blacklist.txt) |
+| `providers_blacklist.txt` | Шпионские ссылки провайдеров | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/providers_blacklist.txt) |
+| `proxy_blacklist.txt` | Мошеннические Прокси-сервисы | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/proxy_blacklist.txt) |
 | `redirection_blacklist.txt` | Редирект-сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/redirection_blacklist.txt) |
 | `scam_blacklist.txt` | Мошеннические сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/scam_blacklist.txt) |
-| `search_engine_blacklist.txt` | Поддельные поисковики | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/search_engine_blacklist.txt) |
+| `search_engine_blacklist.txt` | NSFW поисковики | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/search_engine_blacklist.txt) |
 | `social_media_blacklist.txt` | Опасные соцсети | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/social_media_blacklist.txt) |
 | `spy_blacklist.txt` | Шпионские сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/spy_blacklist.txt) |
 | `stalker_blacklist.txt` | Сайты слежки | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/stalker_blacklist.txt) |
 | `teenager_blacklist.txt` | Опасный для подростков контент | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/teenager_blacklist.txt) |
 | `under_find_social_media_blacklist.txt` | Скрытые соцсети | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/under_find_social_media_blacklist.txt) |
 | `video_blacklist.txt` | Опасные видео-сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/video_blacklist.txt) |
-| `virus_blacklist.txt` | Вирусные сайты | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/virus_blacklist.txt) |
-| `vpn_blacklist.txt` | VPN-сервисы | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/vpn_blacklist.txt) |
+| `virus_blacklist.txt` | Анти-вирус | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/virus_blacklist.txt) |
+| `vpn_blacklist.txt` | Мошеннические VPN-сервисы | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/vpn_blacklist.txt) |
 | `website_clone_blacklist.txt` | Клоны сайтов | [Raw](https://raw.githubusercontent.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING/main/blacklist/website_clone_blacklist.txt) |
 
 ## Ссылки 🔗
