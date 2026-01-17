@@ -11,3 +11,29 @@
 ! S.O.W.A Security Software: https://github.com/AristarhUcolov/CNS-SOWA-SECURITY
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
+||bastyon.com^
+||2.pocketnet.app^
+||_8899._https.2.pocketnet.app^
+||peertube358.pocketnet.app^
+||metrix.pocketnet.app^
+||peertube101.pocketnet.app^
+||peertube322.pocketnet.app^
+||peertube800.pocketnet.app^
+||peertube160.pocketnet.app^
+||peertube.archive.pocketnet.app^
+||pocketnet.app^
+||_8092._https.pocketnet.app^
+||peertube601.pocketnet.app^
+||peertube601.pocketnet.app^
+||matrix.2.pocketnet.app^
+||matrix.pocketnet.app^
+||peertube900.pocketnet.app^
+||1.pocketnet.app^
+||p2p.pocketnet.app^
+||peertube701.pocketnet.app^
+||app.swipelux.pocketnet.app^
+||*.pocketnet.app^
+||barteron.club^
+||*.expressturn.com^
+||pkoin.net^
+||3rm.info^
