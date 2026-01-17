@@ -15,3 +15,8 @@
 ||spacehey.com^
 ||myspace.com^
 ||urlebird.com^ 
+||3rm.info^
+||bastyon.com^
+||*.pocketnet.app^
+||barteron.club^
+||*.expressturn.com^
