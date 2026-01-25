@@ -19,3 +19,4 @@
 ||webr.at^
 ||nyashteam.ru^
 ||nyashteamshop.ru^
+||sobfox.com^
