@@ -13,3 +13,12 @@
 ! =============================================================================================================================
 
 ||dcwrkm.com^
+||gologin.com^
+||multilogin.com^
+||911proxy^
+||proxy4free^
+||proxys.io^
+||omegaproxy.com^
+||sendgrid.net^
+||*.sendgrid.net^
+||sendgrid.*^
