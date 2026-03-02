@@ -12,6 +12,7 @@
 ! Main Page Of The BlackList: https://github.com/AristarhUcolov/CNS-SOWA-DNS-BLACKLIST-FILTERING
 ! =============================================================================================================================
 
+||conveniencemd.sbs^
 ||dcwrkm.com^
 ||gologin.com^
 ||multilogin.com^
